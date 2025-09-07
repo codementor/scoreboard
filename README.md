@@ -1,1 +1,80 @@
-# scoreboard
+# Scoreboard - iPad and IPhone Application
+
+A modern scoreboard application designed for iPad and iPhone, providing an intuitive and user-friendly interface for tracking scores and game statistics.
+
+## About
+
+Scoreboard is an Apple iPad and iPhone application that offers a clean, professional interface for managing and displaying scores during games, tournaments, and sporting events. Built with privacy and user experience in mind, the app provides reliable score tracking without compromising your personal data.
+
+## Features
+
+- **Intuitive Interface**: Clean, easy-to-use design optimized for iPad and iPhone
+- **Real-time Score Tracking**: Update scores instantly with simple taps
+- **Game Management**: Support for various sports and game types
+- **Privacy-First Design**: Your data stays on your device
+- **Offline Functionality**: Works without internet connection
+
+## Privacy
+
+Scoreboard is built with privacy as a core principle. We do not collect, store, or transmit any personal information. All data remains on your device.
+
+**For detailed privacy information, see [PRIVACY.md](PRIVACY.md)**
+
+## Support
+
+### Getting Help
+If you encounter any issues or have questions about the Scoreboard app:
+
+- **Email Support**: Contact us at [support@codementor.net](mailto:support@codementor.net)
+- **Documentation**: Check this README for common questions
+- **Bug Reports**: Report issues through the App Store or contact support
+
+### Common Questions
+
+**Q: Does the app work offline?**
+A: Yes, Scoreboard works completely offline. No internet connection is required.
+
+**Q: Is my data secure?**
+A: Absolutely. All data is stored locally on your device and is never transmitted or shared.
+
+**Q: Can I backup my scores?**
+A: Currently, scores are stored locally. Future updates may include local backup options.
+
+**Q: Does the app work on other devices?**
+A: Scoreboard is optimized for both iPad and iPhone devices.
+
+### System Requirements
+- iPad with iOS 16.0 or later
+- iPhone with iOS 16.0 or later
+- iPadOS 16.0 or later recommended for iPad
+- Minimum 100MB available storage
+
+## Installation
+
+Download Scoreboard from the Apple App Store:
+- Search for "Scoreboard" in the App Store
+- Tap "Get" or "Install"
+- Launch the app and start tracking scores immediately
+
+## Version History
+
+### Current Version
+- Initial release with core scoreboard functionality
+- Privacy-focused design
+- iPad-optimized interface
+
+## License
+
+Copyright © 2025 Codementor, Inc. All rights reserved.
+
+This application is proprietary software.
+
+## Contact
+
+For support, feature requests, or general inquiries:
+- Email: [support@codementor.net](mailto:support@codementor.net)
+- App Store: [App Store link]
+
+---
+
+*Last updated: September 7, 2025*
